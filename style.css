@@ -2,3 +2,36 @@ body {
   margin: 0;
   padding: 0;
 }
+  table {
+    border-collapse: separate;
+    width: 80%;
+    border: 0;
+    margin:0 auto;
+}
+
+
+td {
+    border: 1px solid black;
+}
+
+table.ex1 {
+    table-layout: auto;
+}
+
+ body {
+  text-align: center;
+  background-color:#a93cd8;
+  font-family:'Roboto Slab', serif;
+  color: White
+}
+
+  body{  background-image: url("earth.png");
+    background-color: #cccccc;
+  }
+  h1{
+    text-align: center
+  }
+  ul{
+    width: 35%;
+    margin: 0 auto;
+  }
